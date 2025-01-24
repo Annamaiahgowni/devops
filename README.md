@@ -1,4 +1,7 @@
 # devops
 using for devops operations
 like keeping infra / CICD / microservices code.
-configuration details as per project requirement.
+
+added new data and here 
+Greenclour = Added changes
+Red Colour = removed the changes
